@@ -8,4 +8,4 @@ If a player bets on a single number in the American game there is a probability 
 For European roulette, a single number wins 1⁄37 and loses 36⁄37: −1 × 36⁄37 + 35 × 1⁄37 = −0.0270 (2.70% house edge)
 For triple-zero wheels (rare but increasingly common), a single number wins 1⁄39 and loses 38⁄39: −1 × 38⁄39 + 35 × 1⁄39 = −0.0769 (7.69% house edge)
 
-Note: Streamlit.app and Requirements.txt are part of the Streamlit folder, python workbook itself is commented as is.
+Note: streamlit_app and requirements.txt are part of the Streamlit folder and workflow, python workbook itself is commented as is.
