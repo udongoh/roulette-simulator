@@ -1,4 +1,4 @@
-# roulette-simulator
+# Roulette-simulator
 
 Roulette players have a variety of betting options. "Inside" bets involve selecting either the exact number on which the ball will land, or a small group of numbers adjacent to each other on the layout. "Outside" bets, by contrast, allow players to select a larger group of numbers based on properties such as their color or parity (odd/even). The payout odds for each type of bet are based on its probability.
 
